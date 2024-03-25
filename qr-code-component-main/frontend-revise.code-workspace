@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "qr-code-component-main",
+			"path": "."
+		},
+		{
+			"name": "Front-end-projects",
+			"path": "../../Front-end-projects"
+		}
+	],
+	"settings": {}
+}
